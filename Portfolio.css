@@ -121,9 +121,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: url('Portfolio_image.png') no-repeat;
+    background: url('Portfolio_image.png') no-repeat center center;
     background-size: cover;
-    background-position: left;
     padding: 0 10%;
     position: relative;
 }
